@@ -1,0 +1,27 @@
+header {
+    background-color: white;
+}
+
+.title {
+    background-color: #008248;
+    color: whitesmoke;
+}
+
+#starbucks-image {
+    width: 350px;
+}
+
+.coffee {
+    width: 250px;
+}
+
+article {
+    background-color: whitesmoke;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+footer {
+    background-color: black;
+    color: whitesmoke;
+}
