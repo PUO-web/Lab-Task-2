@@ -23,6 +23,10 @@ body {
     width: 800px;
 }
 
+.coffee2 {
+    width: 1200px;
+}
+
 article {
     margin-inline: 150px;
     padding: 5px;
@@ -42,6 +46,7 @@ footer {
     background-color: #d4e9e2;
     margin-inline: 45px;
     padding: 10px;
+    border-radius: 15px;
     
 }
 
@@ -52,7 +57,9 @@ footer {
     background-color: rgb(0, 98, 65);
     color: white;
     margin-inline: 45px;
-    padding: 10px;  
+    padding-left: 10px;
+    padding-right: 10px; 
+    border-radius: 15px;
 } 
 
 .container3 {
@@ -62,7 +69,9 @@ footer {
     background-color: rgb(0, 98, 65);
     color: white;
     margin-inline: 45px;
-    padding: 10px;  
+    padding-left: 10px;
+    padding-right: 10px;  
+    border-radius: 15px;
 } 
 
 .container4 {
@@ -72,7 +81,9 @@ footer {
     background-color: rgb(0, 98, 65);
     color: white;
     margin-inline: 45px;
-    padding: 10px;  
+    padding-left: 10px;
+    padding-right: 10px; 
+    border-radius: 15px;
 } 
 
 h1 {
