@@ -125,3 +125,9 @@ button {
 .menutable {
     border-bottom: 1px solid #ddd;
   }
+
+  .button1:hover
+  {
+    background-color: #008248;
+    caret-color: white;
+  }
