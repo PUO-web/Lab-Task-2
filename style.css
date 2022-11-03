@@ -133,10 +133,7 @@ button {
     color: #008248;
 
 }
-<<<<<<< HEAD
-=======
 
-<<<<<<< Updated upstream
 .menutable {
     border-bottom: 1px solid #ddd;
   }
@@ -146,13 +143,7 @@ button {
     background-color: #0bb357;
     
   }
-<<<<<<< Updated upstream
-  
-=======
-  
->>>>>>> 0c3603d4c3f9f45cd203ab628f2f0ce598f0b7a7
->>>>>>> Stashed changes
-=======
+
 .containerN{
     display: flex;
     justify-content: center;
@@ -169,12 +160,3 @@ button {
 .Starcoffee{
     width: 600px;
 }
-
-li::before {  
-    counter-increment: list-item;  
-    -ms-text-justify: auto;
-    
-  }
-
-
->>>>>>> Stashed changes
