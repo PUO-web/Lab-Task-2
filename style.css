@@ -10,6 +10,14 @@ body {
     background-color: white;
 }
 
+.body-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
 .title {
     background-color: #008248;
     color: whitesmoke;
@@ -24,7 +32,11 @@ body {
 }
 
 .coffee2 {
-    width: 1200px;
+    width: 800px;
+}
+
+.coffee3 {
+    width: 900px;
 }
 
 article {
@@ -44,9 +56,9 @@ footer {
     justify-content: center;
     align-items: center;
     background-color: #d4e9e2;
-    margin-inline: 45px;
+    /* margin-inline: 35px; */
     padding: 10px;
-    border-radius: 15px;
+    width: 1380px
     
 }
 
@@ -56,10 +68,10 @@ footer {
     align-items: center;
     background-color: rgb(0, 98, 65);
     color: white;
-    margin-inline: 45px;
+    /* margin-inline: 45px; */
     padding-left: 10px;
     padding-right: 10px; 
-    border-radius: 15px;
+    width: 1380px;
 } 
 
 .container3 {
@@ -68,10 +80,10 @@ footer {
     align-items: center;
     background-color: rgb(0, 98, 65);
     color: white;
-    margin-inline: 45px;
+    /* margin-inline: 45px; */
     padding-left: 10px;
     padding-right: 10px;  
-    border-radius: 15px;
+    width: 1380px;
 } 
 
 .container4 {
@@ -80,10 +92,10 @@ footer {
     align-items: center;
     background-color: rgb(0, 98, 65);
     color: white;
-    margin-inline: 45px;
+    /* margin-inline: 45px; */
     padding-left: 10px;
     padding-right: 10px; 
-    border-radius: 15px;
+    width: 1580px;
 } 
 
 h1 {
@@ -121,6 +133,8 @@ button {
     color: #008248;
 
 }
+<<<<<<< HEAD
+=======
 
 .menutable {
     border-bottom: 1px solid #ddd;
@@ -131,4 +145,9 @@ button {
     background-color: #0bb357;
     
   }
+<<<<<<< Updated upstream
   
+=======
+  
+>>>>>>> 0c3603d4c3f9f45cd203ab628f2f0ce598f0b7a7
+>>>>>>> Stashed changes
