@@ -122,6 +122,6 @@ button {
 
 }
 
-.coffeehigh{
-    align-items: center;
-}
+.menutable {
+    border-bottom: 1px solid #ddd;
+  }
